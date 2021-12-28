@@ -76,6 +76,9 @@ hr {
     color: #eee;
 }
 
+#signature p{
+    margin: 1rem;
+}
 
 #signature button {
     
